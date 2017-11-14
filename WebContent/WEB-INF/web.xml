@@ -22,9 +22,7 @@
     <servlet-class>org.apache.tiles.web.startup.TilesServlet</servlet-class>
     <init-param>
       <param-name>org.apache.tiles.impl.BasicTilesContainer.DEFINITIONS_CONFIG</param-name>
-      <param-value>
-			/WEB-INF/tiles-semiadmin.xml
-			</param-value>
+      <param-value>/WEB-INF/tiles-semiadmin.xml</param-value>
     </init-param>
     <load-on-startup>1</load-on-startup>
   </servlet>

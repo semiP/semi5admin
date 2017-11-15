@@ -3,49 +3,51 @@
 		<table class="sidebar" align="center">
 			<tr>
 				<!--  -->
-				<td><img src="/semiP/assets/images/icons/search.png" onmouseover="this.src='/semiP/assets/images/icons/search_on.png'" onmouseout="this.src='/semiP/assets/images/icons/search.png'"><br>
-					<font size="1">SEARCH</font>
+				<td><img src="/semi5admin/assets/images/icons/home.png" width="30" height="30"><br>
+					<font size="1">HOME</font>
 				</td>
 			</tr>
 			<tr>
 				<td></td>
 			</tr>
 			<tr>
-				<td></td>
-			</tr>
-			<tr>
-				<!-- 로그인 상태봐서  logout  아이콘으로 변경해줄 것 -->
-				<td>
-					<a href="/semiP/loginForm.action">
-						<img src="/semiP/assets/images/icons/login.png" onmouseover="this.src='/semiP/assets/images/icons/login_on.png'" onmouseout="this.src='/semiP/assets/images/icons/login.png'"><br>
-					</a>
-					<font size="1">LOGIN</font>
-					
+				<td><img src="/semi5admin/assets/images/icons/member.png" width="30" height="30"><br>
+					<font size="1">회원관리</font>
 				</td>
 			</tr>
 			<tr>
-				<!--  -->
-				<td><img src="/semiP/assets/images/icons/mypage.png" onmouseover="this.src='/semiP/assets/images/icons/mypage_on.png'" onmouseout="this.src='/semiP/assets/images/icons/mypage.png'"><br>
-					<font size="1">MY PAGE</font>
-				</td>
-			</tr>
-			<tr>
-				<!--  -->
-				<td><img src="/semiP/assets/images/icons/cart.png" onmouseover="this.src='/semiP/assets/images/icons/cart_on.png'" onmouseout="this.src='/semiP/assets/images/icons/cart.png'"><br>
-					<font size="1">CART</font>
+				<td><img src="/semi5admin/assets/images/icons/goods.png" width="30" height="30"><br>
+					<font size="1">상품관리</font>
 				</td>
 			</tr>
 			<tr>
 				<td></td>
 			</tr>
 			<tr>
+				<td><img src="/semi5admin/assets/images/icons/notice.png" width="30" height="30"><br>
+					<font size="1">공지/FAQ</font>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="/semi5admin/assets/images/icons/question.png" width="30" height="30"><br>
+					<font size="1">문의관리</font>
+				</td>
+			</tr>
+			<tr>
 				<td></td>
 			</tr>
 			<tr>
-				<!--  -->
-				<td><img src="/semiP/assets/images/icons/support.png" onmouseover="this.src='/semiP/assets/images/icons/support_on.png'" onmouseout="this.src='/semiP/assets/images/icons/support.png'"><br>
-					<font size="1">SUPPORT</font>
+				<td><img src="/semi5admin/assets/images/icons/order.png" width="30" height="30"><br>
+					<font size="1">주문배송관리</font>
 				</td>
+			</tr>
+			<tr>
+				<td><img src="/semi5admin/assets/images/icons/refund.png" width="30" height="30"><br>
+					<font size="1">반품교환관리</font>
+				</td>
+			</tr>
+			<tr>
+				<td></td>
 			</tr>
 		</table>
 	</div>

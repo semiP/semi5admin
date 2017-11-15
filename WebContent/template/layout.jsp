@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- 익스에서 문서보드 IE7 로 고정하는것 방지 -->
 <title><tiles:getAsString name="title" /></title>
-	<link rel="stylesheet" href="/semiP/assets/css/common.css" type="text/css">
+	<link rel="stylesheet" href="/semi5admin/assets/css/common.css" type="text/css">
 </head>
 <body>
 	<tiles:insertAttribute name="sidebar" />

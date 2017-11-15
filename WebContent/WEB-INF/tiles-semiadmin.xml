@@ -16,7 +16,7 @@
 	<definition name="main" extends="default"> 
 		<put-attribute name="header" value="/template/header_main.jsp" />
 		<put-attribute name="sidebar" value="/template/sidebar.jsp" />
-		<put-attribute name="body" value="/main/mainbody.jsp" />
+		<put-attribute name="body" value="/main/dashboard.jsp" />
 		<put-attribute name="footer" value="/template/footer.jsp" />
 	</definition>
 	
